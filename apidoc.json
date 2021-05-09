@@ -1,0 +1,7 @@
+{
+  "name": "reactflix-api",
+  "version": "1.0.0",
+  "description": "backend (api) for ReactFlix, a progressive web app",
+  "title": "ReactFlix API",
+  "url": "https://cuevana-api-carlosfdezb.vercel.app/api/v1/"
+}
